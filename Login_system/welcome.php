@@ -23,7 +23,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
             padding: 0;
         }
         header {
-            background-color: #FF9C33;
+            background-color: red;
             color: white;
             padding: 1em 0;
             text-align: center;
